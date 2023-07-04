@@ -1,5 +1,5 @@
 {
-    "version": "3.19.0",
+    "version": "3.20.0",
     "description": "A file list program that supports multiple storage, powered by Gin and Solidjs.",
     "homepage": "https://alist.nn.ci",
     "license": "AGPL-3.0-or-later",
